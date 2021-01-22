@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
+   <a href="https://twitter.com/__salley">  <img src="https://img.shields.io/badge/-@__salley-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/__salley"/>
+      <a/>
+         <a href="https://www.linkedin.com/in/dev-salley/">  <img src="https://img.shields.io/badge/-Dev%20Salley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-salley/"/>
+      <a/>
+        <a href="#">  <img src="https://img.shields.io/badge/Portfolio-dev%20salley-orange"/>
+      <a/>
     
    <h4 align="center"> Full stack web developer building something Gaint.</h4> 
 
-[![Twitter Badge](https://img.shields.io/badge/-@__salley-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/__salley)](https://twitter.com/__salley)
-[![Linkedin Badge](https://img.shields.io/badge/-Dev%20Salley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-salley/)](https://www.linkedin.com/in/dev-salley/)
 </p>
 
-
-
-
-[![porfolio](https://img.shields.io/badge/Portfolio-dev%20salley-orange)](https://img.shields.io/badge/Portfolio-dev%20salley-orange)
