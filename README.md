@@ -1,1 +1,1 @@
-<h2> hello world <img src="https://media.giphy.com/media/CWG1H72D2Ubug/giphy.gif" max-width="50px"/></h2>
+<h2> hello world <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="70px"/></h2>
