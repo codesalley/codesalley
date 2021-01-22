@@ -13,6 +13,10 @@
       <a/>
     
    <h4 align="center"> Full stack web developer building something Gaint.</h4> 
+   
+   <p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=juxsalley&theme=blueberry&show_icons=true " />
+   <p/>
+   
 
 </p>
 
