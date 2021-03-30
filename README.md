@@ -12,7 +12,7 @@
         <a href="#">  <img src="https://img.shields.io/badge/Portfolio-dev%20salley-orange"/>
       <a/>
     
-   <h4 align="center"> Full stack web developer building something Gaint.</h4> 
+   <h4 align="center">Full-Stack web developer building something Giant.</h4> 
    
    <p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=juxsalley&theme=blueberry&show_icons=true " />
    <p/>
