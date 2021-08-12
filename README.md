@@ -14,7 +14,7 @@
     
    <h4 align="center">Full-Stack web developer building something Giant.</h4> 
    
-   <p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=juxsalley&theme=blueberry&show_icons=true " />
+   <p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=codesalley&theme=blueberry&show_icons=true " />
    <p/>
    
 
