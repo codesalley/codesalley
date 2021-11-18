@@ -7,7 +7,7 @@
 <p align="center">
    <a href="https://twitter.com/__salley">  <img src="https://img.shields.io/badge/-@__salley-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/__salley"/>
       <a/>
-         <a href="https://www.linkedin.com/in/dev-salley/">  <img src="https://img.shields.io/badge/-Dev%20Salley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-salley/"/>
+         <a href="https://www.linkedin.com/in/codesalley/">  <img src="https://img.shields.io/badge/-Dev%20Salley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/codesalley/"/>
       <a/>
         <a href="https://codesalley.dev/" target="_blank">  <img src="https://img.shields.io/badge/Portfolio-dev%20salley-orange"/>
       <a/>
