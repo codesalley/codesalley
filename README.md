@@ -9,7 +9,7 @@
       <a/>
          <a href="https://www.linkedin.com/in/codesalley/">  <img src="https://img.shields.io/badge/-Code%20Salley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/codesalley/"/>
       <a/>
-        <a href="https://codesalley.dev/" target="_blank">  <img src="https://img.shields.io/badge/Portfolio-dev%20salley-orange"/>
+        <a href="https://codesalley.dev/" target="_blank">  <img src="https://img.shields.io/badge/Portfolio-Code%20salley-orange"/>
       <a/>
     
    <h4 align="center">Full-Stack web developer building something Giant.</h4> 
