@@ -12,7 +12,7 @@
         <a href="https://codesalley.dev/" target="_blank">  <img src="https://img.shields.io/badge/Portfolio-Code%20salley-orange"/>
       <a/>
     
-   <h4 align="center">Full-Stack web developer building something Giant.</h4> 
+   <h4 align="center">"I design and build Web and Mobile applications, secured, fast and responsive."</h4> 
    
    <p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=codesalley&theme=blueberry&show_icons=true " />
    <p/>
