@@ -1,6 +1,6 @@
 <p align="center">
    <img src="https://github.com/juxsalley/dev_salley/blob/main/logo2.png"/ width="200" align="center">
-  <h2 align="center"> Hey, I'm Salley <span width="40px"> </span> <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="40px"          align="center"/></h2>
+  <h2 align="center"> Hey, I'm Salley </h2>
  
 </p>
 
