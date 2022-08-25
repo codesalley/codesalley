@@ -14,8 +14,9 @@
     
    <h4 align="center">"I design and build Web and Mobile applications, secured, fast and responsive."</h4> 
    
-   <p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=codesalley&theme=blueberry&show_icons=true " />
+   <p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=codesalley&theme=nightowl&show_icons=true" />
    <p/>
+
    
 
 </p>
