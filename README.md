@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-   <a href="https://twitter.com/__salley">  <img src="https://img.shields.io/badge/-@__salley-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/__salley"/>
+   <a href="https://twitter.com/codesalley">  <img src="https://img.shields.io/badge/-@codesalley-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/codesalley"/>
       <a/>
          <a href="https://www.linkedin.com/in/codesalley/">  <img src="https://img.shields.io/badge/-Code%20Salley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/codesalley/"/>
       <a/>
